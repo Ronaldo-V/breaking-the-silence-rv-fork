@@ -2,6 +2,8 @@
 
 Breaking the silence is a peer support group for veterans looking to connect and engage with others and keep track of how they are feeling from day to day. The site features a forum on which the user can search topics to discuss, post within these topics and comment on posts. The purpose of the forum is to encourage veterans to engage with other members and connect over their shared experiences. Users can also add each other as friends and see each other's profiles. If the user wishes, they are able to remain anonymous. Users can edit their own profiles, adding a bio as well as some details regarding their service history. The user can also keep track of their mental health over time using a score of 1-10. Once the user has logged their wellness score, they are taken to a tracker which shows how their score has changed over time.
 
+Live Site [https://breaking-the-silence.onrender.com/]
+
 ## TABLE OF CONTENTS
 | Section |
 | --- |
